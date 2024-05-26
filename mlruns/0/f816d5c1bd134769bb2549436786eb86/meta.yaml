@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/johnt/Desktop/Assignment_2/mlruns/0/f816d5c1bd134769bb2549436786eb86/artifacts
+end_time: 1716714960213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f816d5c1bd134769bb2549436786eb86
+run_name: Random Forest Regression Run
+run_uuid: f816d5c1bd134769bb2549436786eb86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716714934799
+status: 3
+tags: []
+user_id: johnt
